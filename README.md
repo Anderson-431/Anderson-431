@@ -14,13 +14,14 @@ Desenvolvedor Java em formação • Apaixonado por backend • Em transição d
   <img src="https://img.shields.io/badge/Postman-F76836?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anderson-431/Anderson-431/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anderson-431/Anderson-431/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anderson-431/Anderson-431/output/github-contribution-grid-snake.svg">
 </picture>
-<div align="left">
+</div>
+<div align="center">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anderson-431&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-431&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -45,6 +46,10 @@ Desenvolvedor Java em formação • Apaixonado por backend • Em transição d
   <a href="mailto:anderson.p20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/anderson-devjava/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Anderson-431"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>  
+  <a href="https://www.instagram.com/java_verso/" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 ---
