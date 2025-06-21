@@ -47,9 +47,7 @@ Desenvolvedor Java em formação • Apaixonado por backend • Em transição d
 > Trabalhei anos com respiradores pulmonares e aparelhos de anestesia. Agora, o que me inspira é ver a “engenharia do código” funcionando com a mesma precisão de um equipamento hospitalar. 👨‍💻❤️🫁
 
 ---
-## 📈 Snake animation das minhas contribuições
 
-![snake gif](https://github.com/Anderson-431/Anderson-431/blob/output/github-contribution-grid-snake.svg)
 
 
 
