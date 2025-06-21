@@ -20,6 +20,12 @@ Desenvolvedor Java em formação • Apaixonado por backend • Em transição d
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anderson-431/Anderson-431/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anderson-431/Anderson-431/output/github-contribution-grid-snake.svg">
 </picture>
+<div align="left">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anderson-431&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-431&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
 
 ---
 
@@ -42,11 +48,6 @@ Desenvolvedor Java em formação • Apaixonado por backend • Em transição d
 </p>
 
 ---
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anderson-431&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-431&layout=compact&langs_count=7&theme=radical"/>
-</p>
 
 ### ⚡ Curiosidade
 
